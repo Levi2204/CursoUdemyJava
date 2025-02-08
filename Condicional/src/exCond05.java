@@ -16,7 +16,7 @@ public class exCond05 {
         System.out.print("Digite o código do item que você quer: ");
         int cod = sc.nextInt();
         System.out.print("Digite a quantidade que você quer desse produto: ");
-        int qtd = sc.nextInt();
+        double qtd = sc.nextInt();
         if (cod == 1){
             System.out.printf("Você tera que pagar: %.2f$", qtd * 4);
         }else if (cod == 2){
@@ -30,5 +30,6 @@ public class exCond05 {
         }else{
             System.out.println("Opção inválida");
         }
+        sc.close();
     }
 }
