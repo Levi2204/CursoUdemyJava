@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Condicional/Condicional.iml" filepath="$PROJECT_DIR$/Condicional/Condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaUdemy.iml" filepath="$PROJECT_DIR$/.idea/JavaUdemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POOJava/POOJava.iml" filepath="$PROJECT_DIR$/POOJava/POOJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repeticao/Repeticao.iml" filepath="$PROJECT_DIR$/Repeticao/Repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcao/funcao.iml" filepath="$PROJECT_DIR$/funcao/funcao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logica/logica.iml" filepath="$PROJECT_DIR$/logica/logica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tratamentoTexto/tratamentoTexto.iml" filepath="$PROJECT_DIR$/tratamentoTexto/tratamentoTexto.iml" />
+    </modules>
+  </component>
+</project>
